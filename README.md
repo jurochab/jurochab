@@ -1,7 +1,7 @@
 ## Hi! I'm Julia 
 
 - 💫 I’m currently working on Web Development and Electronics Projects 
-- 🌱 I’m currently learning ReactJS and Machine Learning 
+- 🌱 I’m currently learning ReactJS
 - 🔅 Pronouns: She/Her
 
  <div style="display: inline_block">
