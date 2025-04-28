@@ -1,6 +1,6 @@
 ## Hi! I'm Julia 
 
-- 💫 I’m currently working on Computer Vision and MAchine Learning projects 
+- 💫 I’m currently working on Computer Vision and Machine Learning projects 
 - 🌱 I’m currently learning MediaPipe
 - 🔅 Pronouns: She/Her
 
